@@ -66,6 +66,12 @@
 .image:nth-child(3):hover::before {
   content: 'Sofia Prymych'
 }
+.image:nth-child(4) {
+  background-image: url(../img/zahirniy.jpg);
+}
+.image:nth-child(4):hover::before {
+  content: 'Zahirniy Volodya'
+}
 .image:nth-child(5) {
   background-image: url(../img/IMG_20220214_115707_020.jpg);
 }
