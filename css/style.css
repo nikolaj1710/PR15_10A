@@ -60,4 +60,10 @@
 .image:nth-child(1):hover::before {
   content: 'Mykola Barabaliuk'
 }
+.image:nth-child(1) {
+  background-image: url(../img/prumuj.jpeg);
+}
+.image:nth-child(1):hover::before {
+  content: 'Sofia Prymych'
+}
 
