@@ -76,6 +76,6 @@
   background-image: url(../img/IMG_20220214_115707_020.jpg);
 }
 .image:nth-child(5):hover::before {
-  content: 'Victoria-VM'
+  content: 'Victoria Vuitsiv'
 }
 
