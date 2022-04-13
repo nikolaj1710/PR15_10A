@@ -85,3 +85,9 @@
 .image:nth-child(8):hover::before {
   content: 'Zatorska Christina'
 }
+.image:nth-child(7){
+    background-image: url(../img/ccb476398e707de1623f75869eecdaa7.jpg);
+}
+.image:nth-child(7):hover::before {
+  content: 'Barabaliuk Vlad'
+}
