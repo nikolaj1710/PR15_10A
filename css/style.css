@@ -79,3 +79,9 @@
   content: 'Victoria Vuitsiv'
 }
 
+.image:nth-child(8) {
+  background-image: url(../img/img.jpg);
+}
+.image:nth-child(8):hover::before {
+  content: 'Zatorska Christina'
+}
