@@ -97,3 +97,9 @@
 .image:nth-child(9):hover::before {
 content: 'Ivaskiv Anna'
 }
+.image:nth-child(25){
+  background-image: url(../img/5.2410a2d.jpg);
+}
+.image:nth-child(25):hover::before {
+content: ' Uhrynyuk Anastasiia'
+}
