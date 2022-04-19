@@ -109,3 +109,9 @@ content: ' Uhrynyuk Anastasiia'
 .image:nth-child(6):hover::before {
 content: 'Gula Iruna'
 }
+.image:nth-child(15){
+  background-image: url(../img/fainuy_xlop.jpg);
+}
+.image:nth-child(15):hover::before {
+content: 'Ostapiuk Maks'
+}
