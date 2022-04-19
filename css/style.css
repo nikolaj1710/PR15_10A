@@ -103,3 +103,9 @@ content: 'Ivaskiv Anna'
 .image:nth-child(25):hover::before {
 content: ' Uhrynyuk Anastasiia'
 }
+.image:nth-child(6){
+  background-image: url(../img/gula.jpg);
+}
+.image:nth-child(6):hover::before {
+content: 'Gula Iruna'
+}
